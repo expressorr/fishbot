@@ -1,0 +1,17 @@
+{
+  "name": "bocik",
+  "version": "1.0.0",
+  "description": "masny bot fest",
+  "main": "index.js",
+  "scripts": {
+    "test": "asd"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "expressorr",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
